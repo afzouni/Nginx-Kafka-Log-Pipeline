@@ -1,0 +1,2 @@
+FROM openresty/openresty:1.21.4.1-7-alpine-fat
+RUN ["opm", "get", "JoshuaOliphant/lua-resty-kafka"]
