@@ -1,6 +1,6 @@
 # Nginx Kafka Loging Pipeline
 ## Architecture
-![architecture](https://github.com/afzouni/Nginx-Kafka-Loging-Pipeline/assets/7107254/bb59f265-3bb6-4a0c-9f9b-4de8322f8d82)
+![architecture](https://github.com/afzouni/Nginx-Kafka-Loging-Pipeline/assets/7107254/837fb59d-e776-4c68-8829-7c0276622c60)
 
 ## How to User?
 Run this Command:
