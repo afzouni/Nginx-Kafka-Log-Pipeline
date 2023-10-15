@@ -29,5 +29,5 @@ To get metrics for a specific hour, use the `/metrics` endpoint with the datetim
 ```bash
 curl "http://127.0.0.1:5001/metrics?datetime=<datetime>"
 ```
-Replace `<datetime>` with a timestamp in the format "YYYY-MM-DDTHH:MM:SS".
+Replace `<datetime>` with a timestamp in the format `YYYY-MM-DDTHH:MM:SS`.
 
